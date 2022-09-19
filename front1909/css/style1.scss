@@ -1,0 +1,32 @@
+body{
+    background-color: #E5E5E5;
+}
+#batilogo{
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+      }
+h1{
+    color: #005677;
+    background-color: #C4C4C4;
+    text-align: center;
+}
+h3{
+    color: #005677;
+    background-color: #C4C4C4;
+}
+footer{
+    background-color: #005677;
+
+}
+
+#batitelefono{
+    color: #FFFFFF;
+}
+#contacto{
+    margin: auto;
+}
+#content1::after{
+    content: "\a";
+    white-space: pre;
+}
